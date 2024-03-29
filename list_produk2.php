@@ -46,6 +46,16 @@
                     "image" => "sp.jpg",
                     "price" => "Rp 500.000"
                 ),
+                array(
+                    "name" => "Mouse",
+                    "image" => "mos.jpg",
+                    "price" => "Rp 500.000"
+                ),
+                array(
+                    "name" => "Kacamata",
+                    "image" => "kacamata.jpg",
+                    "price" => "Rp 500.000"
+                ),
             );
 
             // Loop untuk menampilkan data produk
